@@ -1,6 +1,6 @@
 #viewer-pane {
 	height: 100%;
-	width: 50%;
+	width: 60%;
 	display: inline;
 	top: 0;
 	overflow: hidden;
@@ -9,4 +9,8 @@
 #viewer-container {
 	height: 100%;
 	display: flex;
+}
+
+canvas {
+	background-color: white;
 }
