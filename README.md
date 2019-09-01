@@ -16,3 +16,9 @@ https://github.com/tobloef/text2mindmap
 # Voir la nouvelle version en ligne
 
 https://pcardona34.github.io/text2mindmap_FR/index.html
+
+# Version Noir & Blanc
+
+Si vous désirez imprimer une carte, enregistrez le fichier et importez-le dans la version Noir & Blanc.
+
+https://pcardona34.github.io/text2mindmap_FR_NB/index.html
